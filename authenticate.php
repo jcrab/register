@@ -10,5 +10,5 @@
 
 // otherwise, password_verify(password from form, password from db)
 
-// if good, put username in session, otherwise send back to login
+// if good, put username in session & send to games.php, otherwise send back to login
 
